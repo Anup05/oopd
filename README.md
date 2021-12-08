@@ -5,7 +5,7 @@ The *Foodie-Bird Food Ordering System* is a command line app. It has The functio
 
 # Features
 *Authentication*
-> It verifies the credentials of a user and allows to sign up in case if user is not registered in the database.
+> It verifies the credentials of a user and allows to sign up, in case if user is not registered in the database.
 
 *Order*
 
@@ -37,13 +37,13 @@ The *Foodie-Bird Food Ordering System* is a command line app. It has The functio
 
 > This feature enables user to track the order and reflects ideal ETA and Actual ETA of order.
 
-> Also it gives an option to cancel the order if the difference of actual ETA & ideal ETA exceeds the more than 10% of ideal ETA. 
+> Also it gives an option to cancel the order if the difference of actual ETA & ideal ETA exceeds more than 10% of ideal ETA. 
 
 
 
 ## Technologies
-- [Java](https://www.java.com/download/ie_manual.jsp) - widely used object-oriented language, the core of our system
-- [SQLite](https://sqlite.org/2021/sqlite-dll-win64-x64-3370000.zip) - data storage solution
+- [Java](https://www.java.com/download/ie_manual.jsp) - widely used object-oriented language
+- [SQLite](https://sqlite.org/2021/sqlite-dll-win64-x64-3370000.zip) - SQL database
 
 
 ## Tools

@@ -1,5 +1,3 @@
-# Make in India!!!
-![login](https://github.com/Anup05/oopd/blob/main/DSC_0989B.jpg)
 # Foodie-Bird: A Food Ordering System 
 The *Foodie-Bird Food Ordering System* is a command line app. It has The functionalities of Authentication, Order, Payment and Tracking of an order by a customer.
 
